@@ -60,6 +60,7 @@ export PATH="/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin
 
 source /opt/google-cloud-sdk/completion.zsh.inc
 source /opt/google-cloud-sdk/path.zsh.inc
+source /usr/share/nvm/init-nvm.sh
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
